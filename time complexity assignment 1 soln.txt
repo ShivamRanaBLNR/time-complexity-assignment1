@@ -1,0 +1,6 @@
+Q1)  O(log n) 
+Q2)  O(1) 
+Q3)  O(n) 
+Q4)  O(log n) 
+Q5)  O(n) 
+Q6)  O(n*n) 
